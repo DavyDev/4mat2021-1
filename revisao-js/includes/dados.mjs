@@ -1,0 +1,1 @@
+export let numeros = [22, 15, 19, -8, 11, 2, 27]
